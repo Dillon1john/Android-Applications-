@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Actionbar Experiment I</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- ACTIONBAR TAB STRINGS -->
+    <string name="ui_tabname_breakfast">breakfast</string>
+    <string name="ui_tabname_lunch">lunch</string>
+    <string name="ui_tabname_snack">snack</string>
+    <string name="ui_tabname_dinner">dinner</string>
+
+</resources>

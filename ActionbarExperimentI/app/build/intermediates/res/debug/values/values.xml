@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="black">#000000</color>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Actionbar Experiment I</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ui_tabname_breakfast">breakfast</string>
+    <string name="ui_tabname_dinner">dinner</string>
+    <string name="ui_tabname_lunch">lunch</string>
+    <string name="ui_tabname_snack">snack</string>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

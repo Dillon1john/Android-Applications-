@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res" >
+            <file
+                name="breakfast"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/drawable-hdpi/breakfast.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="dinner"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/drawable-hdpi/dinner.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="lunch"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/drawable-hdpi/lunch.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="snack"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/drawable-hdpi/snack.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="breakfast"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/drawable-mdpi/breakfast.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="dinner"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/drawable-mdpi/dinner.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="lunch"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/drawable-mdpi/lunch.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="snack"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/drawable-mdpi/snack.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_my"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/layout/activity_my.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_breakfast"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/layout/fragment_breakfast.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_dinner"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/layout/fragment_dinner.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_lunch"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/layout/fragment_lunch.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_snack"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/layout/fragment_snack.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="my"
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/menu/my.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="black" >#000000
+                </color>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="ui_tabname_dinner" >dinner
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="ui_tabname_snack" >snack
+                </string>
+                <string name="ui_tabname_breakfast" >breakfast
+                </string>
+                <string name="app_name" >Actionbar Experiment I
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="ui_tabname_lunch" >lunch
+                </string>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/build/generated/res/rs/debug" />
+        <source path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/trishcornez/AndroidStudioProjects/ActionbarExperimentI/app/src/debug/res" />
+    </dataSet>
+
+</merger>
