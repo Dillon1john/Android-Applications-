@@ -1,0 +1,10 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/frameLayout"
+    tools:context=".MyActivity"
+    android:background="@drawable/table">
+
+</FrameLayout>
+<!-- From: file:/Users/trishcornez/AndroidStudioProjects/BilliardBall/app/src/main/res/layout/activity_my.xml -->
