@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/trishcornez/AndroidStudioProjects/ActivityLifecycle/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ActivityLifecycle/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ActivityLifecycle/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ActivityLifecycle/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ActivityLifecycle/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_my"
+                path="/Users/trishcornez/AndroidStudioProjects/ActivityLifecycle/app/src/main/res/layout/activity_my.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="my"
+                path="/Users/trishcornez/AndroidStudioProjects/ActivityLifecycle/app/src/main/res/menu/my.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ActivityLifecycle/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ActivityLifecycle/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="start_message" >The activity has been
+        launched … onStart()
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="resume_message" >The activity is now
+        in the foreground and running … onResume()
+                </string>
+                <string name="experiment1" >onCreate() is called upon launch.
+                </string>
+                <string name="experiment2" >Pause the activity by pressing the Home button.
+                </string>
+                <string name="create_message" >The activity has been
+        created  … onCreate()
+                </string>
+                <string name="pause_message" >Another activity is
+        in front of this activity … onPause()
+                </string>
+                <string name="app_name" >Activity Lifecycle
+                </string>
+                <string name="stop_message" >The activity is no
+        longer visible on the screen … onStop()
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="restart_message" >The activity is
+        restarting after being stopped … onRestart()
+                </string>
+                <string name="experiment3" >Restart the application from the launcher.
+                </string>
+                <string name="experiment4" >Rotate the device to destroy and create the activity again.
+                </string>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ActivityLifecycle/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ActivityLifecycle/app/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/trishcornez/AndroidStudioProjects/ActivityLifecycle/app/build/generated/res/rs/debug" />
+        <source path="/Users/trishcornez/AndroidStudioProjects/ActivityLifecycle/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/trishcornez/AndroidStudioProjects/ActivityLifecycle/app/src/debug/res" />
+    </dataSet>
+
+</merger>
