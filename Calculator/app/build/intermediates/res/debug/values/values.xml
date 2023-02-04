@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/Calculator/app/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="dark_green">#00FF00</color>
+    <color name="dusk_blue">#8BADCA</color>
+    <color name="dusty_rose">#EDBA69</color>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/Calculator/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_height">68dip</dimen>
+
+    <string name="ac">AC</string>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/Calculator/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <string name="add">+</string>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Calculator</string>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/Calculator/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <string name="decimal">.</string>
+    <string name="div">/</string>
+    <string name="eight">8</string>
+    <string name="equal">=</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/Calculator/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <string name="mult">x</string>
+    <string name="nine">9</string>
+    <string name="one">1</string>
+    <string name="percent">%</string>
+    <string name="seven">7</string>
+    <string name="sign">+/-</string>
+    <string name="six">6</string>
+    <string name="subtract">-</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="zero">0</string>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/Calculator/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
