@@ -1,0 +1,158 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MyActivity"
+    android:gravity="center_vertical|center_horizontal"
+    android:background="#bec2c3">
+    <!-- THE HAIRSTYLES -->
+    <LinearLayout
+        android:id="@+id/hair1container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/hairholder" >
+
+        <ImageView
+            android:id="@+id/h1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/hair1"
+            android:contentDescription="@string/hair" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/hair2container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/hair1container"
+        android:background="@drawable/hairholder" >
+        <ImageView
+            android:id="@+id/h2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/hair2"
+            android:contentDescription="@string/hair"/>
+    </LinearLayout>
+    <!-- THE TITLE IMAGE -->
+    <LinearLayout
+        android:id="@+id/titlecontainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/hair2container"
+        android:background="@drawable/title"
+        android:orientation="horizontal">
+    </LinearLayout>
+
+    <!-- THE MANNEQUIN -->
+    <LinearLayout
+        android:id="@+id/headcontainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/hair1container"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/head2"
+        android:orientation="horizontal">
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/bodycontainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/headcontainer"
+        android:background="@drawable/body2"
+        android:orientation="vertical">
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/feetcontainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/bodycontainer"
+        android:background="@drawable/feet2"
+        android:orientation="vertical">
+    </LinearLayout>
+
+    <!-- THE DRESSES -->
+    <LinearLayout
+        android:id="@+id/dress1container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titlecontainer"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/hair2container"
+        android:layout_marginLeft="25dp"
+        android:background="@drawable/hangar2">
+        <ImageView
+            android:id="@+id/dress1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dress1"
+            android:contentDescription="@string/dress"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/dress2container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dress1container"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/hair2container"
+        android:layout_marginLeft="25dp"
+        android:background="@drawable/hangar2" >
+        <ImageView
+            android:id="@+id/dress2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dress2"
+            android:contentDescription="@string/shoes"/>
+    </LinearLayout>
+
+
+    <!-- THE SHOES -->
+    <LinearLayout
+        android:id="@+id/shoes1container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dress2container"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@+id/hair2container"
+        android:layout_marginLeft="25dp"
+        android:background="@drawable/shoebox" >
+
+        <ImageView
+            android:id="@+id/shoes1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/shoes1"
+            android:contentDescription="@string/shoes"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/shoes2container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/shoes1container"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@+id/hair2container"
+        android:layout_marginLeft="25dp"
+        android:background="@drawable/shoebox" >
+
+        <ImageView
+            android:id="@+id/shoes2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/shoes2"
+            android:contentDescription="@string/shoes"/>
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
+<!-- From: file:/Users/trishcornez/AndroidStudioProjects/CatherineStylist/app/src/main/res/layout/activity_my.xml -->
