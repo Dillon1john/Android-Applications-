@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/relativeLayout"
+    tools:context=".MyActivity">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="stepUp"
+        android:text="@string/up_btn"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button1"
+        android:layout_centerHorizontal="true"
+        android:text="@string/start_level" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:onClick="stepDown"
+        android:text="@string/down_btn"
+        android:gravity="center" />
+
+    <Button
+        android:id="@+id/button3"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_below="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:text="@string/draw_btn"
+        android:onClick="drawFractal"
+        android:textSize="12sp" />
+
+
+
+
+</RelativeLayout>
