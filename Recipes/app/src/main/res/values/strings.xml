@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Recipes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- PHOTOGRAPH CONTENT DESCRIPTION -->
+    <string name="curry_dish">Curry Dish</string>
+
+    <!-- BUTTON LABEL TO FLIP BETWEEN THE PHOTO AND THE RECIPE -->
+    <string name="flip_btn">Flip Over</string>
+
+    <!-- RECIPE  TEXT -->
+    <string name="ingredients">2c. Vegetables sliced\n1c. Curry powder\n 2c. Rice</string>
+    <string name="directions">Mix vegetables in a bowl with curry powder.\n Add rice.</string>
+
+</resources>
