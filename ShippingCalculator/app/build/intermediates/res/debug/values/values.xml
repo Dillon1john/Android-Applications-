@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="output_margin_buffer">30dp</dimen>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <string name="addCostLBL">Added Cost:</string>
+    <string name="app_name">Shipping Calculator</string>
+    <string name="baseLBL">Base Cost:</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ouncesLBL">(in ounces)</string>
+    <string name="totalLBL">Total Shipping Cost:</string>
+    <string name="weightLBL">Weight of the package</string>
+    <string name="zero">0</string>
+    <string name="zeroDec">$0.00</string>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

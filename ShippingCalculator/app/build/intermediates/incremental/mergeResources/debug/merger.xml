@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="paper"
+                path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/drawable-hdpi/paper.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="shippingbck"
+                path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/drawable-hdpi/shippingbck.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_my"
+                path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/layout/activity_my.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_my_2"
+                path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/layout/activity_my_2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_my_2"
+                path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/layout-land/activity_my_2.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="my"
+                path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/menu/my.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="output_margin_buffer" >30dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="zeroDec" >$0.00
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="weightLBL" >Weight of the package
+                </string>
+                <string name="totalLBL" >Total Shipping Cost:
+                </string>
+                <string name="baseLBL" >Base Cost:
+                </string>
+                <string name="ouncesLBL" >(in ounces)
+                </string>
+                <string name="app_name" >Shipping Calculator
+                </string>
+                <string name="addCostLBL" >Added Cost:
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="zero" >0
+                </string>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/build/generated/res/rs/debug" />
+        <source path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/trishcornez/AndroidStudioProjects/ShippingCalculator/app/src/debug/res" />
+    </dataSet>
+
+</merger>
