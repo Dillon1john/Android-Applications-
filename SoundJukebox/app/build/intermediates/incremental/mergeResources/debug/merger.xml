@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res" >
+            <file
+                name="app_title"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/drawable-hdpi/app_title.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="background"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/drawable-hdpi/background.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bell_clang"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/drawable-hdpi/bell_clang.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="drum_solo"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/drawable-hdpi/drum_solo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="funky_gong"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/drawable-hdpi/funky_gong.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="random_ha"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/drawable-hdpi/random_ha.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spooky_cry"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/drawable-hdpi/spooky_cry.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_my"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/layout/activity_my.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="my"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/menu/my.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="bell_clang"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/raw/bell_clang.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="drum"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/raw/drum.m4a"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="funky_gong"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/raw/funky_gong.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="random_ha"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/raw/random_ha.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="spooky_cry"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/raw/spooky_cry.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="thuuud"
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/raw/thuuud.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="funky_gong" >Funky Gong
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="drum_solo" >Drum Solo
+                </string>
+                <string name="spooky_cry" >Spooky Cry
+                </string>
+                <string name="bell_clang" >Bell Clang
+                </string>
+                <string name="app_name" >Sound Jukebox
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="random_ha" >Random Ha
+                </string>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/build/generated/res/rs/debug" />
+        <source path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/trishcornez/AndroidStudioProjects/SoundJukebox/app/src/debug/res" />
+    </dataSet>
+
+</merger>
