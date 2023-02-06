@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_my"
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/layout/activity_my.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="color_list_fragment"
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/layout/color_list_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="information_fragment"
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/layout/information_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_item_shade"
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/layout/list_item_shade.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_my"
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/layout-port/activity_my.xml"
+                qualifiers="port"
+                type="layout" />
+            <file
+                name="my"
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/menu/my.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="caramel" >#ac7d50
+                </color>
+                <color name="light_tan" >#c89b6d
+                </color>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="gold_is" >Gold is associated with sunshine and knowledge.
+                </string>
+                <string name="app_name" >Shades II
+                </string>
+                <string name="gold" >GOLD
+                </string>
+                <string name="blue" >BLUE
+                </string>
+                <string name="plum" >PLUM
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="blue_is" >Blue is the color of peace and trust.
+                </string>
+                <string name="plum_is" >Plum is a deep purple color. It is used in weddings. 
+                </string>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/build/generated/res/rs/debug" />
+        <source path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/trishcornez/AndroidStudioProjects/ShadesII/app/src/debug/res" />
+    </dataSet>
+
+</merger>
