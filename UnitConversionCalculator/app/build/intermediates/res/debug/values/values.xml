@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/UnitConversionCalculator/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/UnitConversionCalculator/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Unit Conversion Calculator</string>
+    <string name="centimeters">Centimeters</string>
+    <string name="feet">Feet</string>
+    <string name="grams">Grams</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="inches">Inches</string>
+    <string name="meters">Meters</string>
+    <string name="pounds">Pounds</string>
+    <string name="ui_menu_about">about</string>
+    <string name="ui_menu_feedback">feedback</string>
+    <string name="ui_menu_feet_meters">Feet to Meters</string>
+    <string name="ui_menu_inches_cent">Inches to Centimeters</string>
+    <string name="ui_menu_pounds_grams">Pounds to Grams</string>
+    <string name="ui_menu_quit">Quit</string>
+    <string name="ui_menu_search">search</string>
+    <string name="ui_menu_send">send</string>
+    <string name="ui_menu_share">share</string>
+    <string name="zero">0.0</string>
+    <!-- From: file:/Users/trishcornez/AndroidStudioProjects/UnitConversionCalculator/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
